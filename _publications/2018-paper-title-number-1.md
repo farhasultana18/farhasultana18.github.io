@@ -4,8 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2018-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2018
-year: 2018
+date: 2018-09-07
 venue: 'Journal of Testing and Evaluation'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://farhasultana18.github.io/files/DT2018.pdf'
