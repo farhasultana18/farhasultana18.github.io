@@ -11,4 +11,3 @@ paperurl: 'https://farhasultana18.github.io/files/2021SD.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Farha Sultana, Anup Dewanji (2021). &quot;Tampered random variable modeling for multiple step-stress life test.&quot; <i>Communications in Statistics - Theory and Methods</i>. 52(15):5387-5406.'
 ---
-Bla Bla ...

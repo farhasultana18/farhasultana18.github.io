@@ -11,4 +11,3 @@ venue: 'Journal of Testing and Evaluation'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Farha Sultana and Yogesh Mani Tripathi (2018). &quot;Estimation and Prediction for a Generalized Half Normal Distribution under Hybrid Censoring.&quot; <i>Journal of Testing and Evaluation</i>. 48(2):1071-1094.'
 ---
-Bla Bla ...
