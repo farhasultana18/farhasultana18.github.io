@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /personal/
 title: "Farha Sultana"
 author_profile: true
 redirect_from: 
