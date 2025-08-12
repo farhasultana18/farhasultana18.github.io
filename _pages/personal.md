@@ -1,6 +1,6 @@
 ---
 permalink: /personal/
-title: "Farha Sultana"
+title: "Personal Details"
 author_profile: true
 redirect_from: 
   - /personal/
