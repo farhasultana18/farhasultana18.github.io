@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/probstat
 venue: "IIIT Guwahati"
-date:
+date: 2025-08-01
 location: "Guwahati, India"
 ---
 
